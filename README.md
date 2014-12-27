@@ -1,0 +1,1 @@
+Chrome extension for replacing s with long s per [the rules for long s](http://babelstone.blogspot.com/2006/06/rules-for-long-s.html)
